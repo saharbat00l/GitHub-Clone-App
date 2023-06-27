@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Menu Search</string>
+    <string name="more">More</string>
+    <string name="content_description_more">Menu More</string>
+    <string name="favorite">Favorite</string>
+    <string name="content_description_favorite">Menu Favorite</string>
+    <string name="content_description_image_user">Image User</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="something_wrong">There\'s something wrong</string>
+    <string name="search_hint">Search username...</string>
+    <string name="find_illustration">find illustration</string>
+    <string name="find_user">Find User!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
